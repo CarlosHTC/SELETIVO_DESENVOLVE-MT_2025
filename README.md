@@ -3,7 +3,6 @@
 - **Nome:** Carlos Henrique Teixeira Carneiro
 - **CPF:** 70217192130
 - **E-mail:** chtcarneiro@gmail.com
-- **Número da inscrição:** [A ser preenchido] 
 
 # Info Desaparecidos - Sistema de Informações sobre Pessoas Desaparecidas
 
